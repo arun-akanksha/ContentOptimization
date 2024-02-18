@@ -1,4 +1,4 @@
-Project Title: Predicting IMDB Ratings for TV Shows
+Project Title: UNDERSTANDING THE STREAMING ECOSYSTEM
 Description:
 This project aims to predict IMDB ratings for TV shows based on various features such as genre, streaming service availability, release year, tags, and age rating. The prediction is performed using Ordinary Least Squares (OLS) regression model.
 
